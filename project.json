@@ -1,0 +1,27 @@
+{
+  "overview": "$PUMPHOUSE CTO is a Solana memecoin community takeover website with live price data, embedded trading, XCOM-style lore, meme gallery, and full community features.",
+  "features": [
+    "Live DexScreener price ticker",
+    "Jupiter embedded swap widget",
+    "DEX Screener live chart",
+    "XCOM-themed lore narrative",
+    "14-image meme gallery",
+    "CA copy button",
+    "Scrolling marquees",
+    "Tokenomics section",
+    "Community tweets section",
+    "How to Buy guide",
+    "Mobile responsive green/white theme"
+  ],
+  "category": "memecoin",
+  "tags": [
+    "solana",
+    "memecoin",
+    "crypto",
+    "cto",
+    "defi",
+    "pumphouse",
+    "community"
+  ],
+  "last_updated": "2026-04-15T14:09:08.166Z"
+}
